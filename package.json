@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "gh-pages": "^1.2.0",
-    "homepage": "http://csaguil.github.io/",
+    "homepage": "http://csaguil.github.io/portfolio-react",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-pdf": "^3.0.5",

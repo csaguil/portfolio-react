@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { Button, Grid, Image } from 'semantic-ui-react';
-import { Document } from 'react-pdf';
 import WorkExperienceItem from './WorkExperienceItem'
 import '../styles/Style.css';
 import Resume from '../images/resume.pdf';

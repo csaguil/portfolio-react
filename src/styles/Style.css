@@ -1,0 +1,64 @@
+.Summary {
+  text-align: left;
+  font-size: 17px;
+}
+
+.menu {
+  text-align: left;
+  font-size: 15px;
+}
+
+.item {
+  padding: 0.5em;
+}
+
+.AboutMe {
+  padding: 1em;
+}
+
+.WorkExperiences {
+  padding: 1em;
+}
+
+.Projects {
+  padding: 1em;
+}
+
+.profilePicture {
+  max-width: 60%;
+  height: auto;
+  align-content: center;
+  margin: 0em;
+  image-orientation: from-image;
+}
+
+.pigeonPreview {
+  width: auto;
+  max-height: 500px;
+  align-content: center;
+  image-orientation: from-image;
+}
+
+.TECPicture {
+  max-width: 100%;
+  height: auto;
+  align-content: center;
+  image-orientation: from-image;
+}
+
+.WorkExperiences, .Projects {
+  text-align: left;
+}
+
+.ProjectItem, .WorkExperienceItem {
+  padding: 1em;
+}
+
+.projectTitle {
+  font-size: 17px;
+}
+
+.projectSubtitle {
+  font-size: 12px;
+  color: gray;
+}

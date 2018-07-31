@@ -6,12 +6,11 @@ import 'semantic-ui-css/semantic.min.css';
 import App from './App';
 import registerServiceWorker from './registerServiceWorker';
 
-export default () => {
+export default () => (
   <HashRouter>
     <Switch>
-      <Route exact path="/App" />
+      <Route exact path="/" component={App} />
     </Switch>
   </HashRouter>
-
-}
+);
 ReactDOM.render(<App />, document.getElementById('root'));

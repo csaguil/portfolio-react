@@ -18,11 +18,9 @@ class AboutMe extends Component {
               <h2> Cristian Saguil </h2>
               <p>
                 Raised in the Philippines and educated at The Lawrenceville
-                School, I am now a rising senior at Colgate
-                University. I am spending this summer interning at Directly, a startup
-                in San Francisco that is using the gig economy to transform
-                customer service. I plan to pursue software engineering as a career
-                after graduation.
+                School, I am now a senior at Colgate
+                University. I have interned at a silicon valley startup, and worked on a few cool side projects.
+                When Im not working, I like exercising, listening to music, and cooking good food.
               </p>
             </div>
           </Grid.Column>

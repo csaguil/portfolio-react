@@ -6,7 +6,8 @@ class ProjectItem extends Component {
     let linkMap = {
       "Pigeon Carpooling": "https://github.com/csaguil/pigeon-ios",
       "Blockchain Application": "https://github.com/csaguil/p2p-blockchain",
-      "Threads Library": "https://github.com/csaguil/thread-lib"
+      "Threads Library": "https://github.com/csaguil/thread-lib",
+      "Flash Hang": "flashhang.com"
     }
     return (
       <div className="ProjectItem">

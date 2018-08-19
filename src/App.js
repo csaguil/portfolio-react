@@ -19,6 +19,11 @@ class App extends Component {
     this.setState({
       projects: [
         {
+          title: "Flash Hang",
+          year: "2018",
+          tech: "Swift, React Native"
+        },
+        {
           title: "Pigeon Carpooling",
           year: "2017",
           tech: "Swift"

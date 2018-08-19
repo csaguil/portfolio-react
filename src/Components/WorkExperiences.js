@@ -28,6 +28,7 @@ class WorkExperiences extends Component {
         </Grid.Column>
         <Grid.Column width={5}>
           <img src={require('../images/TEC.jpg')} className="TECPicture"/>
+          <p>TEC class of 2018 at True University, UC Berkeley</p>
         </Grid.Column>
         <Grid.Column width={3}></Grid.Column>
       </Grid>
